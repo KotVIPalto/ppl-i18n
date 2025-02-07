@@ -1,0 +1,600 @@
+#. The template for the description of score-related achievements.
+#. `%1$s` will be replaced by the name of the level.
+#. `%2$s` will be replaced by the score to reach.
+#. For example:
+#. "In Eskiv, score 10000 or more"
+#: /client/application/account/achievements_description.cpp:17
+msgid "In %1$s, score %2$s or more."
+msgstr "Набярыце %2$s ці больш балоў у%1$s"
+
+#. A floating message shown when the player takes damage. Feel free to
+#. adapt the message to your language.
+#: /client/application/game/entities/player/ship.cpp:330
+msgid "Ouch"
+msgstr "Йо"
+
+#. A floating message shown when the player takes damage. Feel free to
+#. adapt the message to your language.
+#: /client/application/game/entities/player/ship.cpp:333
+msgid "Yikes"
+msgstr "ЬЎ'"
+
+#. A floating message shown when the player takes damage. Feel free to
+#. adapt the message to your language.
+#: /client/application/game/entities/player/ship.cpp:336
+msgid "Ow"
+msgstr "балюча"
+
+#. A floating message shown when the player takes damage. Feel free to
+#. adapt the message to your language.
+#: /client/application/game/entities/player/ship.cpp:339
+msgid "Ugh"
+msgstr "КХ"
+
+#: /client/application/game/game.cpp:177
+msgid "Quick pause"
+msgstr "Крыху паўзы"
+
+#: /client/application/game/game.cpp:183
+msgid "Quick pause %s"
+msgstr "Крыху паўзы %s"
+
+#: /client/application/game/game_constants.cpp:12
+msgid "1p"
+msgstr "1г"
+
+#: /client/application/game/game_constants.cpp:12
+msgid "2p"
+msgstr "2г"
+
+#: /client/application/game/game_constants.cpp:12
+msgid "3p"
+msgstr "3г"
+
+#: /client/application/game/game_constants.cpp:12
+msgid "4p"
+msgstr "4г"
+
+#. Short description of the "asteroids" game mode
+#: /client/application/game/levels/game_levels.cpp:97
+msgid "Euclidean space is overrated"
+msgstr "Еўклідава прастора была пераацэнена"
+
+#. Short description of the "hexagon" game mode
+#: /client/application/game/levels/game_levels.cpp:116
+msgid "Never trust a six-sided polygon"
+msgstr "Не слухай шастивугольник"
+
+#. Short description of the "hexagon" game mode
+#: /client/application/game/levels/game_levels.cpp:118
+msgid "Unrelated to \"Super Hexagon\""
+msgstr "Не мае адносины да \"Super Hexagon\""
+
+#. Short description of the "hexagon" game mode
+#: /client/application/game/levels/game_levels.cpp:120
+msgid "Choose your own difficulty"
+msgstr "Выбірай складанасць для сябе"
+
+#. Short description of the "eskiv" game mode
+#: /client/application/game/levels/game_levels.cpp:138
+msgid "Dodge everything and you'll be OK"
+msgstr "Ухіліся ад усяго і можаш паесці бульбу"
+
+#. Short description of the "eskiv" game mode
+#: /client/application/game/levels/game_levels.cpp:140
+msgid "aka Dodge This"
+msgstr "таксама яго ведае як Dodge this"
+
+#. Short description of the "eskiv" game mode
+#: /client/application/game/levels/game_levels.cpp:142
+msgid "Green good. Red bad."
+msgstr "Залённы - добра, Чырвоны - дренна."
+
+#. Short description of the "waves" game mode
+#: /client/application/game/levels/game_levels.cpp:161
+msgid "RIP GW3:Dimensions"
+msgstr "RIP GW3:Dimensions"
+
+#. Short description of the "waves" game mode
+#: /client/application/game/levels/game_levels.cpp:163
+msgid "Previously known as Assault"
+msgstr "Раней яго ведалі як Assault"
+
+#. Short description of the "fury" game mode
+#: /client/application/game/levels/game_levels.cpp:182
+msgid "Just 32 seconds of skills"
+msgstr "32 секунды майстэрства"
+
+#. Short description of the "fury" game mode
+#: /client/application/game/levels/game_levels.cpp:184
+msgid "My favorite mode"
+msgstr "Мой каханы рэжым"
+
+#. Short description of the "fury" game mode
+#: /client/application/game/levels/game_levels.cpp:186
+msgid "Survive 32 seconds with this simple trick"
+msgstr "Спачатку патрэбна паймаць кулю, потым сюды"
+
+#. Short description of the "fury" game mode
+#: /client/application/game/levels/game_levels.cpp:188
+msgid "\"This level is a joke right?\" - a tester"
+msgstr "\"Гэта жарт, праўда?\" - Тэстар"
+
+#. Short description of the "ceasefire" game mode
+#: /client/application/game/levels/game_levels.cpp:206
+msgid "Evolution of Pacifism"
+msgst "Спроба быць пацыфістам"
+
+#. Short description of the "pandemonium" game mode
+#: /client/application/game/levels/game_levels.cpp:224
+msgid "True bullet hell"
+msgstr "Сапраўдная мясасечка"
+
+#. Short description of the "pandemonium" game mode
+#: /client/application/game/levels/game_levels.cpp:226
+msgid "With great firepower comes great dodging skills"
+msgstr "З вялікай інтэнсіўнасцю ідзе выдатная паварочвальнасць"
+
+#. Short description of the "partitioner" game mode
+#: /client/application/game/levels/game_levels.cpp:244
+msgid "Lasso up stuff to make them disappear"
+msgstr "Заграбі ўсё ў ласо каб гэта ўсё забіць"
+
+#. Short description of the symbiosis game mode
+#: /client/application/game/levels/game_levels.cpp:262
+msgid "2 brain hemispheres, 2 hands, 2 ships."
+msgstr "2 паўсферы мозгу, 2 рукі, 2 караблі"
+
+#. Shown in a notification when a new score medal is earned.
+#: /client/application/game/levels/medals.cpp:14
+msgid "New bronze medal"
+msgstr "Новы бронзавы медаль"
+
+#. Shown in a notification when a new speedrun medal is earned.
+#: /client/application/game/levels/medals.cpp:16
+msgid "New bronze speedrun medal"
+msgstr "Новы бронзавы медаль хуткасці"
+
+#. Shown in a notification when a new score medal is earned.
+#: /client/application/game/levels/medals.cpp:19
+msgid "New silver medal"
+msgstr "Новы сярэбраны медаль "
+
+#. Shown in a notification when a new speedrun medal is earned.
+#: /client/application/game/levels/medals.cpp:21
+msgid "New silver speedrun medal"
+msgstr "Новы сярэбраны медаль хуткасці"
+
+#. Shown in a notification when a new score medal is earned.
+#: /client/application/game/levels/medals.cpp:24
+msgid "New gold medal"
+msgstr "Новы залаты медаль"
+
+#. Shown in a notification when a new speedrun medal is earned.
+#: /client/application/game/levels/medals.cpp:26
+msgid "New gold speedrun medal"
+msgstr "Новы залаты медаль хуткасці"
+
+#: /client/application/game/player_data/data_synchronizer.cpp:146
+msgid "You've been signed out."
+msgstr "Вы сышлі з акаўнта"
+
+#: /client/application/game/player_data/data_synchronizer.cpp:192
+msgid "Failed to download backup data"
+msgstr "Не атрымалася загрузіць рэзервовыя дадзеныя"
+
+#: /client/application/game/player_data/data_synchronizer.cpp:276
+msgid "Failed to download achievements"
+msgstr "Не атрымліваецца загрузіць дасягненні"
+
+#: /client/application/game/player_data/data_synchronizer.cpp:320
+msgid "Failed to upload achievements"
+msgstr "Мы на змаглі адправіць вашы дасягненні"
+
+#: /client/application/game/player_data/data_synchronizer.cpp:349
+msgid "Failed to download unlocked items"
+msgstr "Не можам загрузіць адчыненыя рэчы"
+
+#: /client/application/game/player_data/data_synchronizer_new.cpp:196
+msgid "Failed to download data"
+msgstr "Не ўдалося загдузіць вашы дадзеныя"
+
+#. Shown in a notification when you improve your best score in a given level.
+#. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
+#: /client/application/game/player_data/player_data_manager.cpp:50
+msgid "New personal best! %s ⇨ %s"
+msgstr "Новы рэкорд! %s ⇨ %s"
+
+#. Shown in a notification when you improve your best speed run in a given
+#. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
+#: /client/application/game/player_data/player_data_manager.cpp:53
+msgid "Improved speed run! %s ⇨ %s"
+msgstr "Вы прайшлі хутчэй! %s ⇨ %s"
+
+#. String shown in a notification when an achievement was unlocked.
+#. %s is replaced with the name of the achievement.
+#: /client/application/game/player_data/player_data_manager.cpp:827
+msgid "Achievement Unlocked: %s"
+msgstr "Новае дасягненне: %s"
+
+#. Describes the rarity level of items. Rarity level of 0.
+#: /client/application/game/player_data/player_unlocked_items.cpp:321
+msgid "Common"
+msgstr "Звычайны"
+
+#. Describes the rarity level of items. Rarity level of 1.
+#: /client/application/game/player_data/player_unlocked_items.cpp:323
+msgid "Uncommon"
+msgstr "Не звычайны"
+
+#. Describes the rarity level of items. Rarity level of 2.
+#: /client/application/game/player_data/player_unlocked_items.cpp:325
+msgid "Rare"
+msgstr "Рэдкі"
+
+#. Describes the rarity level of items. Rarity level of 3.
+#: /client/application/game/player_data/player_unlocked_items.cpp:327
+msgid "Epic"
+msgstr "Эпічны"
+
+#. Describes the rarity level of items. Rarity level of 4.
+#: /client/application/game/player_data/player_unlocked_items.cpp:329
+msgid "Legendary"
+msgstr "Легендарны"
+
+#. Describes the rarity level of items. Rarity level of 5.
+#: /client/application/game/player_data/player_unlocked_items.cpp:331
+msgid "Mythical"
+msgstr "Міфіческі"
+
+#. Describes the rarity level of items. Rarity level of 6.
+#: /client/application/game/player_data/player_unlocked_items.cpp:333
+msgid "Transcendent"
+msgstr "Ахрэнець які"
+
+#. Describes a type of unlockable item
+#: /client/application/game/player_data/player_unlocked_items.h:27
+msgid "Ship"
+msgstr "Карабель"
+
+#. Describes a type of unlockable item
+#: /client/application/game/player_data/player_unlocked_items.h:29
+msgid "Trail"
+msgstr "След"
+
+#. Describes a type of unlockable item
+#: /client/application/game/player_data/player_unlocked_items.h:31
+msgid "Bullet"
+msgstr "Куля"
+
+#. Describes a type of unlockable item
+#: /client/application/game/player_data/player_unlocked_items.h:33
+msgid "Mace"
+msgstr "Булава"
+
+#. Describes a type of unlockable item
+#: /client/application/game/player_data/player_unlocked_items.h:35
+msgid "Laser"
+msgstr "Лазер"
+
+#. Describes a type of unlockable item
+#: /client/application/game/player_data/player_unlocked_items.h:37
+msgid "Joystick"
+msgstr "Рухавик"
+
+#. Describes a type of unlockable item
+#: /client/application/game/player_data/player_unlocked_items.h:39
+msgid "UI Color"
+msgstr "Колер інтэрфейсу"
+
+#: /client/application/game/state/game_network_message_parser.cpp:57
+msgid "%s left the game"
+msgstr "%s цікае з ігры"
+
+#: /client/application/game/state/game_state.cpp:500
+msgid "N/A"
+msgstr "Х/З"
+
+#. Shown when the game is displaying stats. Concerns the player's shooting
+#. accuracy. The %s is replaced with a percentage, e.g. "Accuracy: 46%"
+#: /client/application/game/state/game_state.cpp:513
+msgid "Accuracy: %s"
+msgstr "Тоеснасць: %s"
+
+#. Shown when the game is displaying stats. The %s is replaced with a number,
+#. for example "Total score: 43423"
+#: /client/application/game/state/game_state.cpp:516
+msgid "Total score: %s"
+msgstr "Агульны рэзультат: %s"
+
+#. Shown when the game is displaying stats. The %s is replaced with a number,
+#. for example "Pointonium: 34444"
+#: /client/application/game/state/game_state.cpp:520
+msgid "Pointonium: %s"
+msgstr "Поінтоні: %s"
+
+#. Shown when the game is displaying stats. The %s is replaced with a
+#. duration, for example: "Duration: 1m43s"
+#: /client/application/game/state/game_state.cpp:524
+msgid "Duration: %s"
+msgstr "Працягласць: %s"
+
+#: /client/application/game/ui/game_over_ui.cpp:10
+msgid "Game Over"
+msgstr "Гульня скончана"
+
+#. April 1st replacement for "Game Over". Does not need an exact
+#. translation.
+#: /client/application/game/ui/game_over_ui.cpp:18
+msgid "You died. Again."
+msgstr "ЗДОХ"
+
+#. April 1st replacement for "Game Over". Feel free to be creative.
+#: /client/application/game/ui/game_over_ui.cpp:20
+msgid "Insert coin to continue"
+msgstr "Гуляй лепшей, я ў цябе веру"
+
+#. April 1st replacement for "Game Over". Feel free to be creative.
+#: /client/application/game/ui/game_over_ui.cpp:22
+msgid "You tried"
+msgstr "Не вешай нос!"
+
+#. April 1st replacement for "Game Over". Feel free to be creative.
+#: /client/application/game/ui/game_over_ui.cpp:24
+msgid "It's okay, you were never going to win anyway."
+msgstr "МЫ Ў ЦЯБЕ ВЕРЫМ, ТЫ МОЦНЕЙ ГЭТАГА!"
+
+#: /client/application/game/ui/game_over_ui.cpp:48
+msgid "Play again"
+msgstr "Па новай"
+
+#: /client/application/game/ui/game_over_ui.cpp:50
+msgid "Continue"
+msgstr "Іграць далей"
+
+#. Shown when the player failed to achieve an objective
+#: /client/application/game/ui/game_over_ui.cpp:92
+msgid "Failed"
+msgstr "Не выканаў"
+
+#. Shown when the player successfully achieved an objective
+#: /client/application/game/ui/game_over_ui.cpp:98
+msgid "Success!"
+msgstr "ВЫКАНАНА!"
+
+#: /client/application/game/ui/game_over_ui.cpp:113
+msgid "Exit"
+msgstr "Пайсці"
+
+#: /client/application/game/ui/pause_ui.cpp:45
+msgid "Pause"
+msgstr "Паўза"
+
+#: /client/application/game/ui/pause_ui.cpp:62
+msgid "Restart"
+msgstr "Іграть па новай"
+
+#: /client/application/game/ui/screens/accounts/screen_account_url_request.cpp:77
+msgid "Loading..."
+msgstr "Загрузка..."
+
+#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:20
+msgid "Change colors"
+msgstr "Зсяніць колер"
+
+#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:32
+msgid "Old username:"
+msgstr "Старое імя:"
+
+#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:35
+msgid "New username:"
+msgstr "Новае імя:"
+
+#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:49
+msgid "Change"
+msgstr "Зменіць"
+
+#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:67
+msgid "Only change colors! %s"
+msgstr "Змяняецца толькі колер! %s"
+
+#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:80
+msgid "Username color change"
+msgstr "Зсяніць колер ніку"
+
+#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:88
+msgid "Username change succesfull"
+msgstr "Імя паспяхова зменяно"
+
+#: /client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:99
+msgid "Failed to update username"
+msgstr "Імя зменяць не ўдалося"
+
+#. Shown in a header, in the screen that allows you to manage your PewPew
+#. Live account. In this screen you can for example change the colors of your
+#. nickname, or delete your account.
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:21
+msgid "Manage Account"
+msgstr "Кіраўніцтва аккаунта"
+
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:42
+msgid "Synchronize"
+msgstr "Сінхранізацыя"
+
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:51
+msgid "Sign out"
+msgstr "Выйсці"
+
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:61
+msgid "Delete account"
+msgstr "Выдаліць акаўнт"
+
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:73
+msgid "Account deletion"
+msgstr "Выдаленне акаўнта"
+
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:80
+msgid "Account deletion requested."
+msgstr "Запытана выдаленне акаўнту"
+
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:82
+msgid "An email asking for confirmation was sent."
+msgstr "Ліст-пацверджанне высланы"
+
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:87
+msgid "Failed to request account deletion"
+msgstr "Не атрымалася запытаць выдаленне акаўнта"
+
+#: /client/application/game/ui/screens/accounts/screen_manage_account.cpp:108
+msgid "Help"
+msgstr "Дапамога"
+
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:21
+msgid "Email is invalid!"
+msgstr "Пошта не работае"
+
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:46
+msgid "Too short. Minimum %s characters."
+msgstr "Вельмі коратка, патрэбна %s літар/цыфар."
+
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:53
+msgid "Too long. Maximum %s characters."
+msgstr "Вельмі велікі, патрэбна %s літар/цыфар."
+
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:70
+msgid "Register account"
+msgstr "Зарэгістравацца"
+
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:80
+msgid "Username"
+msgstr "Выше імя"
+
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:80
+msgid "Password"
+msgstr "Пароль"
+
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:80
+msgid "Confirm password"
+msgstr "пацвердзіце пароль"
+
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:80
+msgid "Email"
+msgstr "Пошта"
+
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:114
+msgid "Register"
+msgstr "Зарэгістравацца"
+
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:128
+msgid "Registering"
+msgstr "Рэгістрацыя..."
+
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:135
+msgid "Registration successful."
+msgstr "Рэгістрацыя паспяховая"
+
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:137
+msgid "Please check your emails!"
+msgstr "Праверце пошту"
+
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:141
+msgid "Failed to register"
+msgstr "Не ўдалося зарэгістравацца "
+
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:171
+msgid "Username (you can put colors in!):"
+msgstr "Імя (ЯГО МОЖНА ПАКРАСІЦЬ, БУДЗЕШ МОДНЫМ!!!)"
+
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:171
+msgid "Password:"
+msgstr "Пароль:"
+
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:172
+msgid "Confirm password:"
+msgstr "Пацвярджэнне пароля:"
+
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:172
+msgid "Email:"
+msgstr "Пошта:"
+
+#: /client/application/game/ui/screens/accounts/screen_register.cpp:205
+msgid "Passwords do not match!"
+msgstr "Пароли не супадаюць."
+
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:16
+msgid "Account"
+msgstr "Акаўнт"
+
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:19
+msgid "Not signed in"
+msgstr "Уваход на выканан"
+
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:23
+msgid "Create an account to set your name and sync your data"
+msgstr "Стварыце акаўнт, каб стварыць нікнэйм і сінхранізаваць дадзеныя."
+
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:27
+msgid "Sign in"
+msgstr "Увайці"
+
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:51
+msgid "Privacy Policy"
+msgstr "Палітыка прыватнасці"
+
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:93
+msgid "You need to be signed-in to upload scores"
+msgstr "Неабходна ўвайсці ў рахунак, каб адпраўляць вынікі."
+
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:96
+msgid "You need to be signed-in to play online"
+msgstr "Неабходна ўвайсці ў рахунак, каб гуляць онлайн"
+
+#. Error message shown if to the player when they are trying to view
+#. comments while not signed-in.
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:101
+msgid "You need to be signed-in to view comments"
+msgstr "Неабходна ўвайсці ў рахунак, каб праглядаць каментары"
+
+#: /client/application/game/ui/screens/accounts/screen_signed_out.cpp:113
+msgid "Your account"
+msgstr "Акаўнт"
+
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:28
+msgid "Requesting verification email"
+msgstr "Запыт ліста пацверджання"
+
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:34
+msgid "Verification email sent"
+msgstr "Ліст пацвяржжання адпраўлены."
+
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:36
+msgid "Check your inbox!"
+msgstr "Праверце пошту!"
+
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:40
+msgid "Failed to resend email"
+msgstr "Не ўдалося адправіць ліст зноў"
+
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:51
+msgid "Requesting password reset"
+msgstr "Запыт скіду пароля"
+
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:57
+msgid "Password reset email sent"
+msgstr "Ліст адпраўлены вам на пошту"
+
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:64
+msgid "Failed to request password reset"
+msgstr "Не удалося запытаць скід пароля"
+
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:138
+msgid "Signing in"
+msgstr "Ўваход"
+
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:153
+msgid "Successfully signed in!"
+msgstr "Ўваход паспяховы!"
+
+#: /client/application/game/ui/screens/accounts/screen_signin.cpp:167
+msgid "Email not verified"
+msgstr "Пошта не праверана"
